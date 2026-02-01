@@ -6,13 +6,15 @@ Je conseille donc de créer un nouvel environnement conda :
 ```bash
 conda create -n quality_XAI python=3.11
 conda activate quality_XAI
-conda install pytorch torchvision captum matplotlib numpy
+conda install pytorch torchvision captum matplotlib numpy pandas
 pip install quantus
 ```
 Sinon :
 ```bash
-pip install torch torchvision captum quantus matplotlib numpy
+pip install torch torchvision captum quantus matplotlib numpy pandas
 ```
 ## Démonstrations du cours
-Ce repo contient un notebook qui contient quelques résultats démontrés durant le cours. Il permet de se familiariser avec les concepts pour mieux les comprendre.
+Ce repo contient un notebook avec quelques résultats démontrés durant le cours. Il permet de se familiariser avec les concepts pour mieux les comprendre.
 
+## Extensions
+Ce repo contient aussi un notebook avec 3 propositions d'extensions. Le dossier data contient les fichier générés par ce notebook.
