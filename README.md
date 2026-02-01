@@ -18,3 +18,6 @@ Ce repo contient un notebook avec quelques résultats démontrés durant le cour
 
 ## Extensions
 Ce repo contient aussi un notebook avec 3 propositions d'extensions. Le dossier data contient les fichier générés par ce notebook.
+
+## Présentation
+Le dossier presentation contient les papiers utilisés lors de la construction de ce projet ainsi que les slides.
